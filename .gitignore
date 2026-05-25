@@ -1,0 +1,11 @@
+# Exclure les dossiers de compilation de l'API et des Tests
+**/bin/
+**/obj/
+
+# Exclure la base de données locale pour le portfolio
+*.db
+*.db-journal
+
+# Configuration de l'éditeur
+.vscode/
+.idea/
