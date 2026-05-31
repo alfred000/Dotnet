@@ -30,11 +30,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <!-- Références vers vos projets pour tester à la fois les algorithmes, la base et les API -->
     <ProjectReference Include="..\..\src\PulsePath.Core\PulsePath.Core.csproj" />
     <ProjectReference Include="..\..\src\PulsePath.Infrastructure\PulsePath.Infrastructure.csproj" />
     <ProjectReference Include="..\..\src\PulsePath.API\PulsePath.API.csproj" />
   </ItemGroup>
 
 </Project>
-
